@@ -23,3 +23,5 @@ Steps:
 3. Open the file Genetico_Clinica_Drones.pde.
 4. Click the Processing Run icon.
 5. Click in the RUN box of the popup box.
+
+Video link: https://youtu.be/P0CZ_bx6ZRc 
